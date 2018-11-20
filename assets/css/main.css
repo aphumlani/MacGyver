@@ -2676,7 +2676,7 @@ input, select, textarea {
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		background: #ff6347;
-		color: #d2f2e9;
+		color: #ff6347;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
