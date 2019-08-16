@@ -40,7 +40,6 @@ ol, ul {
 blockquote, q {
 	quotes: none;
 }
-
 	blockquote:before, blockquote:after, q:before, q:after {
 		content: '';
 		content: none;
@@ -1751,6 +1750,28 @@ input, select, textarea {
 			}
 
 		}
+
+.bar{
+    width: 100%;
+    background-color: #ddd;
+    border-radius: 106px;
+}
+
+.skills {
+    text-align-last: center;
+    padding-top: -10px;
+    padding-bottom: -10px;
+    color: white;
+}
+
+.html {width: 30%; background-color: #4acaa8;}
+.css {width: 30%; background-color: #4acaa8;}
+.java {width: 50%; background-color: #4acaa8;}
+.android {width: 80%; background-color: #4acaa8;}
+.firebase {width: 80%; background-color: #4acaa8;}
+.postgreSQL {width: 45%; background-color: #4acaa8;}
+.adobeXD {width: 70%; background-color: #4acaa8;}
+
 
 /* Section/Article */
 
